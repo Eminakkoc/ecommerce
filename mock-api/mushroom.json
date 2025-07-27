@@ -1,0 +1,29 @@
+{
+    "id": "mushroom",
+    "name": "Mushroom",
+    "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+    "imageData": "/images/mushroom.png",
+    "category": "vegetable",
+    "description": "Fresh button mushrooms, earthy and meaty in texture.",
+    "region": "Uşak, Turkey",
+    "relatedProducts": [{
+    "id": "garlic",
+    "name": "Garlic",
+    "pricePerKgs": { "amount": 3.2, "currency": "USD" },
+    "imageData": "/images/garlic.png",
+    "category": "vegetable"
+  }, {
+    "id": "banana",
+    "name": "Banana",
+    "pricePerKgs": { "amount": 1.2, "currency": "USD" },
+    "imageData": "/images/banana.png",
+    "category": "fruit"
+  }, {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  }],
+    "remainingStock": { "amount": 54, "unit": "Kg" }
+  }

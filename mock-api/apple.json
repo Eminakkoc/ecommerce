@@ -1,0 +1,29 @@
+{
+    "id": "apple",
+    "name": "Apple",
+    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+    "imageData": "/images/apple.png",
+    "category": "fruit",
+    "description": "Crisp and sweet apples perfect for snacks or baking.",
+    "region": "Washington, USA",
+    "relatedProducts": [{
+        "id": "banana",
+        "name": "Banana",
+        "pricePerKgs": { "amount": 1.2, "currency": "USD" },
+        "imageData": "/images/banana.png",
+        "category": "fruit"
+    }, {
+        "id": "pear",
+        "name": "Pear",
+        "pricePerKgs": { "amount": 3.7, "currency": "USD" },
+        "imageData": "/images/pear.png",
+        "category": "fruit"
+    }, {
+        "id": "pomegranate",
+        "name": "Pomegranate",
+        "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+        "imageData": "/images/pomegranate.png",
+        "category": "fruit"
+    }],
+    "remainingStock": { "amount": 125, "unit": "Kg" }
+}

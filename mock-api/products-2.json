@@ -1,0 +1,58 @@
+[  
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+    "imageData": "/images/mushroom.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "pricePerKgs": { "amount": 1.9, "currency": "USD" },
+    "imageData": "/images/onion.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "pricePerKgs": { "amount": 3.7, "currency": "USD" },
+    "imageData": "/images/pear.png",
+    "category": "fruit"
+  },
+  {
+    "id": "peas",
+    "name": "Peas",
+    "pricePerKgs": { "amount": 2.1, "currency": "USD" },
+    "imageData": "/images/peas.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+    "imageData": "/images/pineapple.png",
+    "category": "fruit"
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+    "imageData": "/images/pomegranate.png",
+    "category": "fruit"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "pricePerKgs": { "amount": 1.1, "currency": "USD" },
+    "imageData": "/images/potato.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  }
+]

@@ -1,0 +1,29 @@
+{
+    "id": "peas",
+    "name": "Peas",
+    "pricePerKgs": { "amount": 2.1, "currency": "USD" },
+    "imageData": "/images/peas.png",
+    "category": "vegetable",
+    "description": "Green garden peas, sweet and plump.",
+    "region": "Hokkaido, Japan",
+    "relatedProducts": [{
+    "id": "carrot",
+    "name": "Carrot",
+    "pricePerKgs": { "amount": 2.0, "currency": "USD" },
+    "imageData": "/images/carrot.png",
+    "category": "vegetable"
+  }, {
+    "id": "brussels-sprout",
+    "name": "Brussels sprout",
+    "pricePerKgs": { "amount": 2.8, "currency": "USD" },
+    "imageData": "/images/brussels-sprout.png",
+    "category": "vegetable"
+  }, {
+    "id": "green-pepper",
+    "name": "Green pepper",
+    "pricePerKgs": { "amount": 2.6, "currency": "USD" },
+    "imageData": "/images/green-pepper.png",
+    "category": "vegetable"
+  }],
+    "remainingStock": { "amount": 33, "unit": "Kg" }
+  }

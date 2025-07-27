@@ -1,0 +1,29 @@
+{
+    "id": "banana",
+    "name": "Banana",
+    "pricePerKgs": { "amount": 1.2, "currency": "USD" },
+    "imageData": "/images/banana.png",
+    "category": "fruit",
+    "description": "Ripe bananas with a smooth texture and sweet taste.",
+    "region": "Chiquita, Ecuador",
+    "relatedProducts": [{
+        "id": "apple",
+        "name": "Apple",
+        "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+        "imageData": "/images/apple.png",
+        "category": "fruit"
+    }, {
+        "id": "pineapple",
+        "name": "Pineapple",
+        "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+        "imageData": "/images/pineapple.png",
+        "category": "fruit"
+    }, {
+        "id": "mushroom",
+        "name": "Mushroom",
+        "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+        "imageData": "/images/mushroom.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 88, "unit": "Kg" }
+}

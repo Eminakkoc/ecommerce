@@ -1,0 +1,29 @@
+{
+    "id": "garlic",
+    "name": "Garlic",
+    "pricePerKgs": { "amount": 3.2, "currency": "USD" },
+    "imageData": "/images/garlic.png",
+    "category": "vegetable",
+    "description": "Strong and aromatic garlic bulbs for savory dishes.",
+    "region": "Shandong, China",
+    "relatedProducts": [{
+        "id": "carrot",
+        "name": "Carrot",
+        "pricePerKgs": { "amount": 2.0, "currency": "USD" },
+        "imageData": "/images/carrot.png",
+        "category": "vegetable"
+    }, {
+        "id": "grapes",
+        "name": "Grapes",
+        "pricePerKgs": { "amount": 4.0, "currency": "USD" },
+        "imageData": "/images/grapes.png",
+        "category": "fruit"
+    }, {
+        "id": "onion",
+        "name": "Onion",
+        "pricePerKgs": { "amount": 1.9, "currency": "USD" },
+        "imageData": "/images/onion.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 75, "unit": "Kg" }
+}

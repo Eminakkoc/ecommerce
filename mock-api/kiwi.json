@@ -1,0 +1,29 @@
+{
+    "id": "kiwi",
+    "name": "Kiwi",
+    "pricePerKgs": { "amount": 5.1, "currency": "USD" },
+    "imageData": "/images/kiwi.png",
+    "category": "fruit",
+    "description": "Tangy and juicy green kiwi fruits.",
+    "region": "Bay of Plenty, New Zealand",
+    "relatedProducts": [{
+    "id": "apple",
+    "name": "Apple",
+    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+    "imageData": "/images/apple.png",
+    "category": "fruit"
+  }, {
+    "id": "pear",
+    "name": "Pear",
+    "pricePerKgs": { "amount": 3.7, "currency": "USD" },
+    "imageData": "/images/pear.png",
+    "category": "fruit"
+  }, {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+    "imageData": "/images/pineapple.png",
+    "category": "fruit"
+  }],
+    "remainingStock": { "amount": 37, "unit": "Kg" }
+  }

@@ -1,0 +1,29 @@
+{
+    "id": "potato",
+    "name": "Potato",
+    "pricePerKgs": { "amount": 1.1, "currency": "USD" },
+    "imageData": "/images/potato.png",
+    "category": "vegetable",
+    "description": "Versatile brown-skinned potatoes for all recipes.",
+    "region": "Niğde, Turkey",
+    "relatedProducts": [{
+        "id": "carrot",
+        "name": "Carrot",
+        "pricePerKgs": { "amount": 2.0, "currency": "USD" },
+        "imageData": "/images/carrot.png",
+        "category": "vegetable"
+    }, {
+        "id": "mushroom",
+        "name": "Mushroom",
+        "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+        "imageData": "/images/mushroom.png",
+        "category": "vegetable"
+    }, {
+        "id": "spinach",
+        "name": "Spinach",
+        "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+        "imageData": "/images/spinach.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 200, "unit": "Kg" }
+  }

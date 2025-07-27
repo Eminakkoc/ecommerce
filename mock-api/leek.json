@@ -1,0 +1,29 @@
+{
+    "id": "leek",
+    "name": "Leek",
+    "pricePerKgs": { "amount": 2.3, "currency": "USD" },
+    "imageData": "/images/leek.png",
+    "category": "vegetable",
+    "description": "Long, mild-flavored leeks ideal for soups and stews.",
+    "region": "Normandy, France",
+    "relatedProducts": [{
+        "id": "brussels-sprout",
+        "name": "Brussels sprout",
+        "pricePerKgs": { "amount": 2.8, "currency": "USD" },
+        "imageData": "/images/brussels-sprout.png",
+        "category": "vegetable"
+    }, {
+        "id": "green-pepper",
+        "name": "Green pepper",
+        "pricePerKgs": { "amount": 2.6, "currency": "USD" },
+        "imageData": "/images/green-pepper.png",
+        "category": "vegetable"
+    }, {
+        "id": "garlic",
+        "name": "Garlic",
+        "pricePerKgs": { "amount": 3.2, "currency": "USD" },
+        "imageData": "/images/garlic.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 43, "unit": "Kg" }
+  }

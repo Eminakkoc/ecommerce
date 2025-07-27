@@ -1,0 +1,28 @@
+{
+    "id": "grapes",
+    "name": "Grapes",
+    "pricePerKgs": { "amount": 4.0, "currency": "USD" },
+    "imageData": "/images/grapes.png",
+    "category": "fruit",
+    "description": "Sweet seedless grapes, great for snacking or juice.",
+    "region": "İzmir, Turkey",
+    "relatedProducts": [{
+        "id": "banana",
+        "name": "Banana",
+        "pricePerKgs": { "amount": 1.2, "currency": "USD" },
+        "imageData": "/images/banana.png",
+        "category": "fruit"
+    }, {
+        "id": "mushroom",
+        "name": "Mushroom",
+        "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+        "imageData": "/images/mushroom.png",
+        "category": "vegetable"
+    }, {
+        "id": "pomegranate",
+        "name": "Pomegranate",
+        "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+        "imageData": "/images/pomegranate.png",
+        "category": "fruit"}],
+    "remainingStock": { "amount": 65, "unit": "Kg" }
+  }

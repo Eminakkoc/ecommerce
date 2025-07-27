@@ -1,0 +1,29 @@
+{
+    "id": "green-pepper",
+    "name": "Green pepper",
+    "pricePerKgs": { "amount": 2.6, "currency": "USD" },
+    "imageData": "/images/green-pepper.png",
+    "category": "vegetable",
+    "description": "Mild and crunchy green bell peppers.",
+    "region": "Andalusia, Spain",
+    "relatedProducts": [{
+        "id": "carrot",
+        "name": "Carrot",
+        "pricePerKgs": { "amount": 2.0, "currency": "USD" },
+        "imageData": "/images/carrot.png",
+        "category": "vegetable"
+    }, {
+        "id": "leek",
+        "name": "Leek",
+        "pricePerKgs": { "amount": 2.3, "currency": "USD" },
+        "imageData": "/images/leek.png",
+        "category": "vegetable"
+    }, {
+        "id": "spinach",
+        "name": "Spinach",
+        "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+        "imageData": "/images/spinach.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 80, "unit": "Kg" }
+  }

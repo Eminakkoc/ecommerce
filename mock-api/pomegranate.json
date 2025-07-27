@@ -1,0 +1,29 @@
+{
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+    "imageData": "/images/pomegranate.png",
+    "category": "fruit",
+    "description": "Rich in antioxidants, juicy pomegranate seeds.",
+    "region": "Antalya, Turkey",
+    "relatedProducts": [{
+    "id": "apple",
+    "name": "Apple",
+    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+    "imageData": "/images/apple.png",
+    "category": "fruit"
+  }, {
+    "id": "grapes",
+    "name": "Grapes",
+    "pricePerKgs": { "amount": 4.0, "currency": "USD" },
+    "imageData": "/images/grapes.png",
+    "category": "fruit"
+  }, {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+    "imageData": "/images/pineapple.png",
+    "category": "fruit"
+  }],
+    "remainingStock": { "amount": 42, "unit": "Kg" }
+  }

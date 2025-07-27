@@ -1,0 +1,29 @@
+{
+    "id": "brussels-sprout",
+    "name": "Brussels sprout",
+    "pricePerKgs": { "amount": 2.8, "currency": "USD" },
+    "imageData": "/images/brussels-sprout.png",
+    "category": "vegetable",
+    "description": "Mini cabbages with a mild, nutty flavor when roasted.",
+    "region": "Flanders, Belgium",
+    "relatedProducts": [{
+        "id": "carrot",
+        "name": "Carrot",
+        "pricePerKgs": { "amount": 2.0, "currency": "USD" },
+        "imageData": "/images/carrot.png",
+        "category": "vegetable"
+    }, {
+        "id": "leek",
+        "name": "Leek",
+        "pricePerKgs": { "amount": 2.3, "currency": "USD" },
+        "imageData": "/images/leek.png",
+        "category": "vegetable"
+    }, {
+        "id": "spinach",
+        "name": "Spinach",
+        "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+        "imageData": "/images/spinach.png",
+        "category": "vegetable"
+    }],
+    "remainingStock": { "amount": 52, "unit": "Kg" }
+}
