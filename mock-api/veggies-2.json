@@ -1,0 +1,34 @@
+{
+  "page": 2,
+  "totalPages": 2,
+  "products": [
+  {
+    "id": "onion",
+    "name": "Onion",
+    "pricePerKgs": { "amount": 1.9, "currency": "USD" },
+    "imageData": "/images/onion.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "peas",
+    "name": "Peas",
+    "pricePerKgs": { "amount": 2.1, "currency": "USD" },
+    "imageData": "/images/peas.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "pricePerKgs": { "amount": 1.1, "currency": "USD" },
+    "imageData": "/images/potato.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  }
+]
+}

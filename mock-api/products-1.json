@@ -1,4 +1,7 @@
-[
+{
+  "page": 1,
+  "totalPages": 3,
+  "products": [
   {
     "id": "apple",
     "name": "Apple",
@@ -40,26 +43,6 @@
     "pricePerKgs": { "amount": 4.0, "currency": "USD" },
     "imageData": "/images/grapes.png",
     "category": "fruit"
-  },
-  {
-    "id": "green-pepper",
-    "name": "Green pepper",
-    "pricePerKgs": { "amount": 2.6, "currency": "USD" },
-    "imageData": "/images/green-pepper.png",
-    "category": "vegetable"
-  },
-  {
-    "id": "kiwi",
-    "name": "Kiwi",
-    "pricePerKgs": { "amount": 5.1, "currency": "USD" },
-    "imageData": "/images/kiwi.png",
-    "category": "fruit"
-  },
-  {
-    "id": "leek",
-    "name": "Leek",
-    "pricePerKgs": { "amount": 2.3, "currency": "USD" },
-    "imageData": "/images/leek.png",
-    "category": "vegetable"
   }
 ]
+}

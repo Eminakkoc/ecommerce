@@ -1,0 +1,34 @@
+{
+  "page": 2,
+  "totalPages": 2,
+  "products": [
+  {
+    "id": "brussels-sprout",
+    "name": "Brussels sprout",
+    "pricePerKgs": { "amount": 2.8, "currency": "USD" },
+    "imageData": "/images/brussels-sprout.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "pricePerKgs": { "amount": 3.2, "currency": "USD" },
+    "imageData": "/images/garlic.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+    "imageData": "/images/mushroom.png",
+    "category": "vegetable"
+  }
+]
+}

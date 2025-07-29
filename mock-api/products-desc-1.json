@@ -1,13 +1,13 @@
 {
-  "page": 2,
+  "page": 1,
   "totalPages": 3,
-  "products": [  
+  "products": [
   {
-    "id": "green-pepper",
-    "name": "Green pepper",
-    "pricePerKgs": { "amount": 2.6, "currency": "USD" },
-    "imageData": "/images/green-pepper.png",
-    "category": "vegetable"
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+    "imageData": "/images/pomegranate.png",
+    "category": "fruit"
   },
   {
     "id": "kiwi",
@@ -17,13 +17,6 @@
     "category": "fruit"
   },
   {
-    "id": "leek",
-    "name": "Leek",
-    "pricePerKgs": { "amount": 2.3, "currency": "USD" },
-    "imageData": "/images/leek.png",
-    "category": "vegetable"
-  },
-  {
     "id": "mushroom",
     "name": "Mushroom",
     "pricePerKgs": { "amount": 4.5, "currency": "USD" },
@@ -31,11 +24,18 @@
     "category": "vegetable"
   },
   {
-    "id": "onion",
-    "name": "Onion",
-    "pricePerKgs": { "amount": 1.9, "currency": "USD" },
-    "imageData": "/images/onion.png",
-    "category": "vegetable"
+    "id": "grapes",
+    "name": "Grapes",
+    "pricePerKgs": { "amount": 4.0, "currency": "USD" },
+    "imageData": "/images/grapes.png",
+    "category": "fruit"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+    "imageData": "/images/pineapple.png",
+    "category": "fruit"
   },
   {
     "id": "pear",

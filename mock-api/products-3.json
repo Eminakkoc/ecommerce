@@ -1,0 +1,41 @@
+{
+  "page": 3,
+  "totalPages": 3,
+  "products": [  
+  {
+    "id": "peas",
+    "name": "Peas",
+    "pricePerKgs": { "amount": 2.1, "currency": "USD" },
+    "imageData": "/images/peas.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "pricePerKgs": { "amount": 3.9, "currency": "USD" },
+    "imageData": "/images/pineapple.png",
+    "category": "fruit"
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "pricePerKgs": { "amount": 5.5, "currency": "USD" },
+    "imageData": "/images/pomegranate.png",
+    "category": "fruit"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "pricePerKgs": { "amount": 1.1, "currency": "USD" },
+    "imageData": "/images/potato.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  }
+]
+}

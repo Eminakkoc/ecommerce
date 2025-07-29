@@ -1,10 +1,13 @@
-[
+{
+  "page": 2,
+  "totalPages": 3,
+  "products": [
   {
-    "id": "mushroom",
-    "name": "Mushroom",
-    "pricePerKgs": { "amount": 4.5, "currency": "USD" },
-    "imageData": "/images/mushroom.png",
-    "category": "vegetable"
+    "id": "apple",
+    "name": "Apple",
+    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+    "imageData": "/images/apple.png",
+    "category": "fruit"
   },
   {
     "id": "garlic",
@@ -40,33 +43,6 @@
     "pricePerKgs": { "amount": 2.3, "currency": "USD" },
     "imageData": "/images/leek.png",
     "category": "vegetable"
-  },
-  {
-    "id": "peas",
-    "name": "Peas",
-    "pricePerKgs": { "amount": 2.1, "currency": "USD" },
-    "imageData": "/images/peas.png",
-    "category": "vegetable"
-  },
-  {
-    "id": "carrot",
-    "name": "Carrot",
-    "pricePerKgs": { "amount": 2.0, "currency": "USD" },
-    "imageData": "/images/carrot.png",
-    "category": "vegetable"
-  },
-  {
-    "id": "onion",
-    "name": "Onion",
-    "pricePerKgs": { "amount": 1.9, "currency": "USD" },
-    "imageData": "/images/onion.png",
-    "category": "vegetable"
-  },
-  {
-    "id": "potato",
-    "name": "Potato",
-    "pricePerKgs": { "amount": 1.1, "currency": "USD" },
-    "imageData": "/images/potato.png",
-    "category": "vegetable"
   }
 ]
+}

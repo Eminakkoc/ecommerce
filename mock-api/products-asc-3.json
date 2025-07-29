@@ -1,26 +1,7 @@
-[
-  
-  {
-    "id": "banana",
-    "name": "Banana",
-    "pricePerKgs": { "amount": 1.2, "currency": "USD" },
-    "imageData": "/images/banana.png",
-    "category": "fruit"
-  },
-  {
-    "id": "apple",
-    "name": "Apple",
-    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
-    "imageData": "/images/apple.png",
-    "category": "fruit"
-  },
-  {
-    "id": "pear",
-    "name": "Pear",
-    "pricePerKgs": { "amount": 3.7, "currency": "USD" },
-    "imageData": "/images/pear.png",
-    "category": "fruit"
-  },
+{
+  "page": 3,
+  "totalPages": 3,
+  "products": [
   {
     "id": "pineapple",
     "name": "Pineapple",
@@ -34,6 +15,13 @@
     "pricePerKgs": { "amount": 4.0, "currency": "USD" },
     "imageData": "/images/grapes.png",
     "category": "fruit"
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "pricePerKgs": { "amount": 4.5, "currency": "USD" },
+    "imageData": "/images/mushroom.png",
+    "category": "vegetable"
   },
   {
     "id": "kiwi",
@@ -50,3 +38,4 @@
     "category": "fruit"
   }
 ]
+}

@@ -1,0 +1,48 @@
+{
+  "page": 2,
+  "totalPages": 3,
+  "products": [
+  {
+    "id": "green-pepper",
+    "name": "Green pepper",
+    "pricePerKgs": { "amount": 2.6, "currency": "USD" },
+    "imageData": "/images/green-pepper.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "brussels-sprout",
+    "name": "Brussels sprout",
+    "pricePerKgs": { "amount": 2.8, "currency": "USD" },
+    "imageData": "/images/brussels-sprout.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "pricePerKgs": { "amount": 2.9, "currency": "USD" },
+    "imageData": "/images/spinach.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "pricePerKgs": { "amount": 3.2, "currency": "USD" },
+    "imageData": "/images/garlic.png",
+    "category": "vegetable"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "pricePerKgs": { "amount": 3.5, "currency": "USD" },
+    "imageData": "/images/apple.png",
+    "category": "fruit"
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "pricePerKgs": { "amount": 3.7, "currency": "USD" },
+    "imageData": "/images/pear.png",
+    "category": "fruit"
+  }
+]
+}
